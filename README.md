@@ -65,7 +65,7 @@ Legend_of_Mortal/
 
 The source of the text in Chinese is from version 1.0.5000.2 which is right after the Ye Yunshang / Qingcheng route. There may be new additional text which were added later but those would remain untranslated. As of now I have no plans of adding text from new versions.
 
-The translation has been done by an LLM and I'm still in the process of reviewing the story for accuracy but this will take an enormous amount of time for a single person. I've already reviewed and fixed a good chunk of the dialogue and in my opinion it's in a comprehensible state as is.
+The translation has been done by an LLM and I'm still in the process of reviewing the story for accuracy but this will take an enormous amount of time for a single person. I've already reviewed and fixed a good chunk of the dialogue and in my opinion it's in a comprehensible state right now.
 
 
 ### As of 28/09/2025 25%~ of the translated text has been reviewed and fixed. 
