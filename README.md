@@ -15,7 +15,7 @@ What you actually need is just XUnity.AutoTranslator. There are several ways to 
 
 If you plan to download the prerequisites yourself, please note that the game executable is 32-bit. And the XUnity.AutoTranslator config language needs to be "zh-CN" for Simplified Chinese. This is case sensitive.
 
-1. Clone or Download this repository by clicking on "<> Code" and under HTTPS Download ZIP. Right click and extract the Zip file. You only need the BepInEx folder, feel free to delete everything else.
+1. Clone or Download this repository by clicking on "<> Code" and under HTTPS Download ZIP. Right click and extract the Zip file. You only need the Mod folder, feel free to delete everything else.
 ![Code](assets/Screenshot1.png)
 
 2. Copy and Paste everything inside the Mod folder in your game directory. The game location may vary. It's usually in `C:\Program Files (x86)\Steam\steamapps\common\` but if you are unsure right click and select properties from your Steam Library. Under 'Installed Files' click on 'Browse'. The game folder structure should look like this.
@@ -65,7 +65,7 @@ Legend_of_Mortal/
 
 The source of the text in Chinese is from version 1.0.5000.2 which is right after the Ye Yunshang / Qingcheng route. There may be new additional text which were added later but those would remain untranslated. As of now I have no plans of adding text from new versions.
 
-The translation has been done by an LLM and I'm still in the process of reviewing the story for accuracy but this will take an enormous amount of time for a single person. I've already reviewed and fixed a good chunk of the dialogue and in my opinion it's in a comprehensible state right now.
+The translation has been done by an LLM and I'm still in the process of reviewing the story for accuracy but this will take an enormous amount of time for a single person. I've already reviewed and fixed a good chunk of the dialogue and in my opinion it's in a comprehensible state as is.
 
 
 ### As of 28/09/2025 25%~ of the translated text has been reviewed and fixed. 
