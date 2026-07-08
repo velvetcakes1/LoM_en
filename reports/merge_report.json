@@ -1,0 +1,897 @@
+{
+  "source_roots": {
+    "base": "LoM_en",
+    "import": "LegendOfMortalOverLlm"
+  },
+  "source_git": {
+    "base": {
+      "branch": "combined-llm-translation",
+      "sha": "9a178937605c951b61af379330cd6e9e3cec2833",
+      "short_sha": "9a17893",
+      "remote": "https://github.com/lemon07r/LoM_en.git"
+    },
+    "import": {
+      "branch": "pr-1-dagashi",
+      "sha": "18fb6ebec039a47e58c2c4f87cbdcc8ec40a82e4",
+      "short_sha": "18fb6eb",
+      "remote": "https://github.com/joshfreitas1984/LegendOfMortalOverLlm.git"
+    }
+  },
+  "source_entries": {
+    "lom_static": 99331,
+    "llm_auto": 447,
+    "llm_manual": 642,
+    "llm_glossary": 827
+  },
+  "xunity": {
+    "malformed_source_lines": [
+      {
+        "source": "llm_auto",
+        "line": 275,
+        "text": "美術素材=Art Materials場景美術=scene art"
+      },
+      {
+        "source": "llm_auto",
+        "line": 387,
+        "text": "蒙面人送你的秘笈......=Secrets given to you by the masked man...你的冰糖葫蘆生意......=Your candied haws business..."
+      },
+      {
+        "source": "llm_auto",
+        "line": 441,
+        "text": "義田=Righteous Field你的晚膳......=Your dinner..."
+      }
+    ],
+    "selection": {
+      "valid_keys": 99331,
+      "conflicts": 331,
+      "chosen_by_source": {
+        "llm_auto": 12,
+        "llm_glossary": 827,
+        "lom_static": 98492
+      },
+      "rejected_by_reason": {
+        "newline_mismatch": 18
+      },
+      "rejected_by_source": {
+        "llm_auto": 18
+      },
+      "conflict_examples": [
+        {
+          "key": "3D 美術",
+          "chosen_source": "lom_static",
+          "chosen": "3D Art",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "3D Art",
+              "line": 1759
+            },
+            {
+              "source": "llm_auto",
+              "value": "3D art",
+              "line": 234
+            }
+          ]
+        },
+        {
+          "key": "Paras 工作室",
+          "chosen_source": "lom_static",
+          "chosen": "Paras Studio",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Paras Studio",
+              "line": 2125
+            },
+            {
+              "source": "llm_auto",
+              "value": "studio paras",
+              "line": 271
+            }
+          ]
+        },
+        {
+          "key": "TPOP Studio 幽火的音樂工作室",
+          "chosen_source": "lom_static",
+          "chosen": "TPOP Studio Youhuo's Music Studio",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "TPOP Studio Youhuo's Music Studio",
+              "line": 2131
+            },
+            {
+              "source": "llm_auto",
+              "value": "TPOP Studio Youhuo's music studio",
+              "line": 315
+            }
+          ]
+        },
+        {
+          "key": "{0}{1}{2}(目前{3}) ({4})",
+          "chosen_source": "lom_static",
+          "chosen": "{0}{1}{2} (Current: {3}) ({4})",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "{0}{1}{2} (Current: {3}) ({4})",
+              "line": 2301
+            },
+            {
+              "source": "llm_manual",
+              "value": "{0}{1}{2} (Currently {3}) ({4})",
+              "line": 7
+            }
+          ]
+        },
+        {
+          "key": "–戰術支援–",
+          "chosen_source": "lom_static",
+          "chosen": "– Tactical Support –",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "– Tactical Support –",
+              "line": 2309
+            },
+            {
+              "source": "llm_auto",
+              "value": "–Tactical Support–",
+              "line": 433
+            }
+          ]
+        },
+        {
+          "key": "—暫停—",
+          "chosen_source": "lom_static",
+          "chosen": "—Pause—",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "—Pause—",
+              "line": 2313
+            },
+            {
+              "source": "llm_auto",
+              "value": "-Pause-",
+              "line": 413
+            }
+          ]
+        },
+        {
+          "key": "……一下子就走得冷冷清清了，真要出大事了啊。",
+          "chosen_source": "lom_static",
+          "chosen": "...It became so quiet and empty all of a sudden. Something major is really happening.",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "...It became so quiet and empty all of a sudden. Something major is really happening.",
+              "line": 2327
+            },
+            {
+              "source": "llm_manual",
+              "value": "......They left all at once, and everything turned eerily quiet, something big is really about to happen.",
+              "line": 624
+            }
+          ]
+        },
+        {
+          "key": "……嗯。",
+          "chosen_source": "lom_static",
+          "chosen": "...Mm.",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "...Mm.",
+              "line": 3440
+            },
+            {
+              "source": "llm_auto",
+              "value": "......Mmm.",
+              "line": 382
+            }
+          ]
+        },
+        {
+          "key": "一趾御風",
+          "chosen_source": "lom_static",
+          "chosen": "One‑Toe Wind Control",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "One‑Toe Wind Control",
+              "line": 6834
+            },
+            {
+              "source": "llm_manual",
+              "value": "One Toe Wind Control",
+              "line": 348
+            }
+          ]
+        },
+        {
+          "key": "一趾神通",
+          "chosen_source": "lom_static",
+          "chosen": "Single Toe Divine Art",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Single Toe Divine Art",
+              "line": 6838
+            },
+            {
+              "source": "llm_manual",
+              "value": "One Toe Divine Skill",
+              "line": 349
+            }
+          ]
+        },
+        {
+          "key": "三五斬妖劍",
+          "chosen_source": "lom_static",
+          "chosen": "Three‑Five Demon‑Slaying Sword",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Three‑Five Demon‑Slaying Sword",
+              "line": 6976
+            },
+            {
+              "source": "llm_manual",
+              "value": "Three Five Demon Slaying Sword",
+              "line": 220
+            }
+          ]
+        },
+        {
+          "key": "上",
+          "chosen_source": "lom_static",
+          "chosen": "Up",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Up",
+              "line": 7484
+            },
+            {
+              "source": "llm_auto",
+              "value": "Superior",
+              "line": 420
+            }
+          ]
+        },
+        {
+          "key": "並沒有",
+          "chosen_source": "lom_static",
+          "chosen": "It's not like that",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "It's not like that",
+              "line": 10928
+            },
+            {
+              "source": "llm_manual",
+              "value": "Not in the slightest",
+              "line": 641
+            }
+          ]
+        },
+        {
+          "key": "中庸",
+          "chosen_source": "lom_static",
+          "chosen": "Balanced",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Balanced",
+              "line": 10961
+            },
+            {
+              "source": "llm_manual",
+              "value": "Moderate",
+              "line": 572
+            }
+          ]
+        },
+        {
+          "key": "中毒Lv1",
+          "chosen_source": "lom_static",
+          "chosen": "Poisoned Lv1",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Poisoned Lv1",
+              "line": 10966
+            },
+            {
+              "source": "llm_manual",
+              "value": "Poisoning Lv1",
+              "line": 401
+            }
+          ]
+        },
+        {
+          "key": "主角",
+          "chosen_source": "lom_static",
+          "chosen": "main character",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "main character",
+              "line": 11159
+            },
+            {
+              "source": "llm_auto",
+              "value": "Protagonist",
+              "line": 333
+            }
+          ]
+        },
+        {
+          "key": "主音量",
+          "chosen_source": "lom_static",
+          "chosen": "Master",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Master",
+              "line": 11160
+            },
+            {
+              "source": "llm_auto",
+              "value": "Master Volume",
+              "line": 54
+            }
+          ]
+        },
+        {
+          "key": "九六伏繪工作室",
+          "chosen_source": "lom_static",
+          "chosen": "Nine Six Fú Painting Studio",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Nine Six Fú Painting Studio",
+              "line": 11251
+            },
+            {
+              "source": "llm_auto",
+              "value": "Jiuliu Fuhua Studio",
+              "line": 203
+            }
+          ]
+        },
+        {
+          "key": "人際",
+          "chosen_source": "lom_static",
+          "chosen": "Relationships",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Relationships",
+              "line": 12538
+            },
+            {
+              "source": "llm_auto",
+              "value": "Relations",
+              "line": 116
+            }
+          ]
+        },
+        {
+          "key": "仙鶴迷蹤",
+          "chosen_source": "lom_static",
+          "chosen": "Immortal Crane's Elusive Steps",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Immortal Crane's Elusive Steps",
+              "line": 13892
+            },
+            {
+              "source": "llm_manual",
+              "value": "Immortal Crane Lost Trace",
+              "line": 355
+            }
+          ]
+        },
+        {
+          "key": "仙鶴迷蹤拳",
+          "chosen_source": "lom_static",
+          "chosen": "Crane's Mysterious Footsteps Fist",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Crane's Mysterious Footsteps Fist",
+              "line": 13893
+            },
+            {
+              "source": "llm_manual",
+              "value": "Immortal Crane Lost Trace Fist",
+              "line": 191
+            }
+          ]
+        },
+        {
+          "key": "仙鶴迷蹤步",
+          "chosen_source": "lom_static",
+          "chosen": "Immortal Crane's Elusive Steps",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Immortal Crane's Elusive Steps",
+              "line": 13894
+            },
+            {
+              "source": "llm_manual",
+              "value": "Immortal Crane Lost Trace Steps",
+              "line": 354
+            }
+          ]
+        },
+        {
+          "key": "作曲",
+          "chosen_source": "lom_static",
+          "chosen": "Composition",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Composition",
+              "line": 14805
+            },
+            {
+              "source": "llm_auto",
+              "value": "compose",
+              "line": 281
+            }
+          ]
+        },
+        {
+          "key": "你正在......",
+          "chosen_source": "lom_static",
+          "chosen": "You are......",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "You are......",
+              "line": 20212
+            },
+            {
+              "source": "llm_auto",
+              "value": "You are...",
+              "line": 363
+            }
+          ]
+        },
+        {
+          "key": "你死了。",
+          "chosen_source": "lom_static",
+          "chosen": "You died.",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "You died.",
+              "line": 20246
+            },
+            {
+              "source": "llm_auto",
+              "value": "You are dead.",
+              "line": 423
+            }
+          ]
+        },
+        {
+          "key": "你的想法......",
+          "chosen_source": "lom_static",
+          "chosen": "What you think......",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "What you think......",
+              "line": 20699
+            },
+            {
+              "source": "llm_auto",
+              "value": "What do you think…",
+              "line": 439
+            }
+          ]
+        },
+        {
+          "key": "你的抉擇……",
+          "chosen_source": "lom_static",
+          "chosen": "Your choice…",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Your choice…",
+              "line": 20715
+            },
+            {
+              "source": "llm_auto",
+              "value": "Your choice...",
+              "line": 331
+            }
+          ]
+        },
+        {
+          "key": "依目前開發項目",
+          "chosen_source": "lom_static",
+          "chosen": "According to the current development project",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "According to the current development project",
+              "line": 23447
+            },
+            {
+              "source": "llm_auto",
+              "value": "According to current development projects",
+              "line": 232
+            }
+          ]
+        },
+        {
+          "key": "俠客",
+          "chosen_source": "llm_glossary",
+          "chosen": "Wanderer",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Wanderer",
+              "line": 23525
+            },
+            {
+              "source": "llm_manual",
+              "value": "Heroic",
+              "line": 576
+            },
+            {
+              "source": "llm_glossary",
+              "value": "Wanderer",
+              "line": 240
+            }
+          ]
+        },
+        {
+          "key": "修練",
+          "chosen_source": "lom_static",
+          "chosen": "Training",
+          "alternatives": [
+            {
+              "source": "lom_static",
+              "value": "Training",
+              "line": 23560
+            },
+            {
+              "source": "llm_auto",
+              "value": "Practice",
+              "line": 240
+            }
+          ]
+        }
+      ]
+    },
+    "rejection_examples": [
+      {
+        "source": "llm_auto",
+        "line": 79,
+        "reason": "newline_mismatch",
+        "key": "測試測試\\n測試測試測試測試測試測試\\n測試測試測試測試測試測試\\n測試測試測試測試測試測試",
+        "value": "Test test test test test test test test test test test test test test test test test test"
+      },
+      {
+        "source": "llm_auto",
+        "line": 132,
+        "reason": "newline_mismatch",
+        "key": "一二三四五六七八九十一二三四五六七八九十\\n一二三四五六七八九十一二三四五六七八九十\\n一二三四五六七八九十一二三四五六七八九十\\n一二三四五六七八九十一二三四五六七八九十",
+        "value": "one two three four five six seven eight nine one two three four five six seven eight nine one two three four five six seven eight nine eleven two three four five six seven eight ni"
+      },
+      {
+        "source": "llm_auto",
+        "line": 254,
+        "reason": "newline_mismatch",
+        "key": "樣西理平當科野星？發做來成怎！來比遠：一的頭寫一然特己電，呢地操文：他示觀又人火雖的財排是所有在星太告一。此得到任前型的解曾……一對土得部。色子領關更部兩據已他人沒知備發我投完兒的印可合修應，史病口年起比在因個分大廣？呢手年好生我的考難雖，雙機會的。小結狀調官的謝子年家停支大出亞車",
+        "value": "Is Rihei Nishi going to be a Kono star?\\nWhat a success!\\nCome far away: one's head is written with one's own electricity, and the text is here: he shows that all the wealth arrang"
+      },
+      {
+        "source": "llm_auto",
+        "line": 256,
+        "reason": "newline_mismatch",
+        "key": "攻擊45\t爆擊5x6\\n第二行\\n第三行\\n第四行\\n第五行",
+        "value": "Attack 45 Critical 5x6 2nd row 3rd row 4th row 5th row"
+      },
+      {
+        "source": "llm_auto",
+        "line": 259,
+        "reason": "newline_mismatch",
+        "key": "入光面間支。常期分電\\n入光面間支。常期分電\\n入光面間支。常期分電\\n入光面間支。常期分電",
+        "value": "Into the light surface interbranch.\\nThe regular branch of electricity enters the smooth surface interbranch.\\nThe regular branch of electricity enters the smooth surface interbran"
+      },
+      {
+        "source": "llm_auto",
+        "line": 307,
+        "reason": "newline_mismatch",
+        "key": "師弟你好眼光，\\n這寶貝兒可不簡單。\\n你若中意，我打折賣給你呀!",
+        "value": "Junior brother, you have good taste, this baby is not simple.\\nIf you like it, I'll sell it to you at a discount!"
+      },
+      {
+        "source": "llm_auto",
+        "line": 348,
+        "reason": "newline_mismatch",
+        "key": "測試測試\\n測試測試測試測試測試測試測試測試測試測試測試測試\\n試測試測試",
+        "value": "Test test test test test test test test test test test test test test test"
+      },
+      {
+        "source": "llm_auto",
+        "line": 351,
+        "reason": "newline_mismatch",
+        "key": "內容內容內容內容內容\\n內容內容內容內容內容",
+        "value": "content content content content content content content content"
+      },
+      {
+        "source": "llm_auto",
+        "line": 352,
+        "reason": "newline_mismatch",
+        "key": "[Process]回合數: 1\\n雙方每回合恢復氣力\\n玩家狀態效果\\n--------\\n敵人狀態效果\\n--------\\n",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round. Player status effect -------- Enemy status effect--------\\n"
+      },
+      {
+        "source": "llm_auto",
+        "line": 365,
+        "reason": "newline_mismatch",
+        "key": "[Process]回合數: 1\\n雙方每回合恢復氣力\\n",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round\\n"
+      },
+      {
+        "source": "llm_auto",
+        "line": 371,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round\\n玩家狀態效果\\n--------\\n敵人狀態效果\\n--------\\n",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n"
+      },
+      {
+        "source": "llm_auto",
+        "line": 372,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n骰子總數: 1+2+5+3+3 = 14\\n骰子總數:  = 0\\n玩家動作: 捅人, 敵人動作: 無動作",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------Total number of dice: 1+2+5+3+3 = 14 Total number of di"
+      },
+      {
+        "source": "llm_auto",
+        "line": 380,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n骰子總數: 5+2+2+2+6 = 17\\n骰子總數:  = 0\\n玩家動作: 捅人, 敵人動作: 捅人\\",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------Total number of dice: 5+2+2+2+6 = 17 Total number of di"
+      },
+      {
+        "source": "llm_auto",
+        "line": 381,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n骰子總數:  = 0\\n骰子總數:  = 0\\n玩家動作: 備揍, 敵人動作: 捅人\\n--------\\",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect -------- Total number of dice: = 0 Total number of dice: = 0 Pl"
+      },
+      {
+        "source": "llm_auto",
+        "line": 390,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n骰子總數: 2+1+4+5+1 = 13\\n骰子總數:  = 0\\n玩家動作: 捅人, 敵人動作: 捅人\\",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------Total number of dice: 2+1+4+5+1 = 13 Total number of di"
+      },
+      {
+        "source": "llm_auto",
+        "line": 392,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n骰子總數: 5 = 5\\n骰子總數:  = 0\\n玩家動作: 嘴砲, 敵人動作: 備揍\\n--------",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------Total number of dice: 5 = 5 Total number of dice: = 0 P"
+      },
+      {
+        "source": "llm_auto",
+        "line": 448,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n骰子總數: 5+2+3+2+3 = 15\\n骰子總數:  = 0\\n玩家動作: 捅人, 敵人動作: 捅人\\",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------Total number of dice: 5+2+3+2+3 = 15 Total number of di"
+      },
+      {
+        "source": "llm_auto",
+        "line": 450,
+        "reason": "newline_mismatch",
+        "key": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\\n骰子總數: 4+3+4+2+2 = 15\\n骰子總數:  = 0\\n玩家動作: 捅人, 敵人動作: 捅人\\",
+        "value": "[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------Total number of dice: 4+3+4+2+2 = 15 Total number of di"
+      }
+    ],
+    "validation": {
+      "entries": 99331,
+      "malformed_lines": [],
+      "duplicate_keys": [],
+      "duplicate_key_count": 0,
+      "remaining_chinese_count": 0,
+      "remaining_chinese_examples": [],
+      "validation_failures": {}
+    }
+  },
+  "stringtable": {
+    "output_rows": 72576,
+    "row_count_matches_raw": true,
+    "remaining_chinese_count": 0,
+    "remaining_chinese_examples": [],
+    "yaml_fragment_count": 0,
+    "yaml_fragment_examples": [],
+    "raw_path": "Files/Raw/StringTable.csv",
+    "converted_path": "Files/Converted/StringTable.csv.yaml",
+    "source_rows": 72576,
+    "converted_rows": 72576,
+    "translated_rows": 71198,
+    "fallback_rows": 1340,
+    "invalid_candidate_rows": 0,
+    "invalid_candidate_examples": [],
+    "rejected_by_reason": {},
+    "alignment_mismatch_count": 0,
+    "alignment_mismatch_examples": []
+  },
+  "quality_comparison": {
+    "short_ui": {
+      "conflicting_keys": 325,
+      "chosen_sources": {
+        "llm_glossary": 10,
+        "lom_static": 315
+      },
+      "examples": [
+        {
+          "key": "3D 美術",
+          "chosen_source": "lom_static",
+          "chosen": "3D Art",
+          "candidate_count": 2
+        },
+        {
+          "key": "Paras 工作室",
+          "chosen_source": "lom_static",
+          "chosen": "Paras Studio",
+          "candidate_count": 2
+        },
+        {
+          "key": "–戰術支援–",
+          "chosen_source": "lom_static",
+          "chosen": "– Tactical Support –",
+          "candidate_count": 2
+        },
+        {
+          "key": "—暫停—",
+          "chosen_source": "lom_static",
+          "chosen": "—Pause—",
+          "candidate_count": 2
+        },
+        {
+          "key": "……嗯。",
+          "chosen_source": "lom_static",
+          "chosen": "...Mm.",
+          "candidate_count": 2
+        },
+        {
+          "key": "一趾御風",
+          "chosen_source": "lom_static",
+          "chosen": "One‑Toe Wind Control",
+          "candidate_count": 2
+        },
+        {
+          "key": "一趾神通",
+          "chosen_source": "lom_static",
+          "chosen": "Single Toe Divine Art",
+          "candidate_count": 2
+        },
+        {
+          "key": "三五斬妖劍",
+          "chosen_source": "lom_static",
+          "chosen": "Three‑Five Demon‑Slaying Sword",
+          "candidate_count": 2
+        }
+      ]
+    },
+    "system_combat": {
+      "conflicting_keys": 4,
+      "chosen_sources": {
+        "lom_static": 4
+      },
+      "examples": [
+        {
+          "key": "屬性",
+          "chosen_source": "lom_static",
+          "chosen": "Properties",
+          "candidate_count": 2
+        },
+        {
+          "key": "技能設置",
+          "chosen_source": "lom_static",
+          "chosen": "Skill Settings",
+          "candidate_count": 2
+        },
+        {
+          "key": "新的回合",
+          "chosen_source": "lom_static",
+          "chosen": "new round",
+          "candidate_count": 2
+        },
+        {
+          "key": "狀態",
+          "chosen_source": "lom_static",
+          "chosen": "condition",
+          "candidate_count": 3
+        }
+      ]
+    },
+    "names_terms": {
+      "conflicting_keys": 315,
+      "chosen_sources": {
+        "llm_glossary": 10,
+        "lom_static": 305
+      },
+      "examples": [
+        {
+          "key": "3D 美術",
+          "chosen_source": "lom_static",
+          "chosen": "3D Art",
+          "candidate_count": 2
+        },
+        {
+          "key": "–戰術支援–",
+          "chosen_source": "lom_static",
+          "chosen": "– Tactical Support –",
+          "candidate_count": 2
+        },
+        {
+          "key": "—暫停—",
+          "chosen_source": "lom_static",
+          "chosen": "—Pause—",
+          "candidate_count": 2
+        },
+        {
+          "key": "……嗯。",
+          "chosen_source": "lom_static",
+          "chosen": "...Mm.",
+          "candidate_count": 2
+        },
+        {
+          "key": "一趾御風",
+          "chosen_source": "lom_static",
+          "chosen": "One‑Toe Wind Control",
+          "candidate_count": 2
+        },
+        {
+          "key": "一趾神通",
+          "chosen_source": "lom_static",
+          "chosen": "Single Toe Divine Art",
+          "candidate_count": 2
+        },
+        {
+          "key": "三五斬妖劍",
+          "chosen_source": "lom_static",
+          "chosen": "Three‑Five Demon‑Slaying Sword",
+          "candidate_count": 2
+        },
+        {
+          "key": "上",
+          "chosen_source": "lom_static",
+          "chosen": "Up",
+          "candidate_count": 2
+        }
+      ]
+    },
+    "long_story": {
+      "conflicting_keys": 0,
+      "chosen_sources": {},
+      "examples": []
+    }
+  },
+  "package": {
+    "zip": "dist/LegendOfMortal-English-combined.zip",
+    "file_count": 81,
+    "missing_required": [],
+    "has_textures": true,
+    "config_checks": {
+      "Language=en": true,
+      "FromLanguage=zh-CN": true,
+      "EnableTextureTranslation=True": true
+    }
+  }
+}
