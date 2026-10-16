@@ -6,7 +6,7 @@ Preview of an older version [Here](https://www.youtube.com/watch?v=-y4dPT-_AnA)
 
 ## Prerequisites
 
-These are included in this repository and you do not need to download them separately. Skip to installation if you don't plan to manually get these. Links are below if you still want to get them on your own. Please note that the game executable is `32-bit`, and the XUnityAutoTranslator config FromLanguage needs to be `zh-CN` for Simplified Chinese. This is case sensitive. The `Translation` folder in BepinExp is required to be copied in your respective BepinEx folder.
+These are included in this repository and you do not need to download them separately. Skip to installation if you don't plan to manually get these. Links are below if you still want to get them on your own. Please note that the game executable is `32-bit` (Changed to `64-bit` after version 1.0.6000.0), and the XUnityAutoTranslator config FromLanguage needs to be `zh-CN` for Simplified Chinese. This is case sensitive. The `Translation` folder in BepinEx is required to be copied in your respective BepinEx folder.
 
 - BepInEx [Click Here](https://github.com/BepInEx/BepInEx)
 
