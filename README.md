@@ -6,7 +6,7 @@ Preview of an older version [Here](https://www.youtube.com/watch?v=-y4dPT-_AnA)
 
 ## Prerequisites
 
-These are included in this repository and you do not need to download them separately. Skip to installation if you don't plan to manually get these. Links are below if you still want to get them on your own. Please note that the game executable is `32-bit` (Changed to `64-bit` after version 1.0.6000.0), and the XUnityAutoTranslator config FromLanguage needs to be `zh-CN` for Simplified Chinese. This is case sensitive. The `Translation` folder in BepinEx is required to be copied in your respective BepinEx folder.
+These are included in this repository and you do not need to download them separately. Skip to installation if you don't plan to manually get these. Links are below if you still want to get them on your own. Please note that the game executable is `32-bit` (Changed to `64-bit` after game version 1.0.6000.0), and the XUnityAutoTranslator config FromLanguage needs to be `zh-CN` for Simplified Chinese. This is case sensitive. The `Translation` folder in BepinEx is required to be copied in your respective BepinEx folder.
 
 - BepInEx [Click Here](https://github.com/BepInEx/BepInEx)
 
@@ -14,10 +14,10 @@ These are included in this repository and you do not need to download them separ
 
 ## Installation
 
-1. Clone or Download this repository by clicking on `<> Code` and under `HTTPS` click `Download ZIP`. Then right click and extract the zipped file you just downloaded. Keep the `Mod` folder, feel free to delete everything else.
+1. Clone or Download this repository by clicking on `<> Code` and under `HTTPS` click `Download ZIP`. Then right click and extract the zipped file you just downloaded. Keep the `Mod 1.0.xxxx~` folders, feel free to delete everything else.
 ![Code](assets/Screenshot1.png)
 
-2. Copy and Paste everything inside the `Mod` folder to your game directory. The game directory location may vary. It's usually in `C:\Program Files (x86)\Steam\steamapps\common\` but if you are unsure right click the game in your steam library and select `properties`. Under `Installed Files` click on `Browse` to open your game directory. After you're done copying the files, the game folder structure should look like this.
+2. Copy and Paste everything inside the `Mod` folder for your game version to your game directory. The game directory location may vary. It's usually in `C:\Program Files (x86)\Steam\steamapps\common\` but if you are unsure right click the game in your steam library and select `properties`. Under `Installed Files` click on `Browse` to open your game directory. After you're done copying the files, the game folder structure should look like this.
 
 
 ```
