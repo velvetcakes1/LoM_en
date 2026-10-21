@@ -1,1 +1,116 @@
-﻿
+﻿匯出成功：LOM_Legend_20240626223237.txt=Export successful: LOM_Legend_20240626223237.txt
+新增日期：2024/01/01 12:59=Date added: 2024/01/01 12:59
+殿=temple
+【护心镜】\n[决斗]\n备揍减免+50\n血量+300\n[战役]\n全部生命+100\n防御等级+3\n=[Heartguard] [Duel] Preparation reduction +50 HP +300 [Battle] All HP +100 Defense level +3\n
+신라문화체 M（Shilla_Culture M，新羅文化體）Copyright 2021 Gyeongju City Hall=신라문화체 M（Shilla_Culture M, Shilla Culture Body） Copyright 2021 Gyeongju City Hall
+唐門弟子的標準配備。\n外型看似與脫手標相去不遠，\n實則是柄機關劍，劍身中空，內有鋼球。\n可以隨時改變重心，用以接近戰鬥或投擲。\n若非習練暗器總綱，難以駕馭此物。\n因為是按著圖譜重造的，做工很粗糙。=The standard equipment for Tang Sect disciples.\nThe appearance looks similar to that of a hand-operated sword, but it is actually a mechanism sword with a hollow body and a steel ball inside.\nThe center of gravity can be changed at any time for approaching combat or throwing.\nIf you don't practice the general outline of concealed weapons, it will be difficult to control this thing.\nBecause it was recreated according to the drawings, the workmanship is very rough.
+測試測試測試測試=test test test test
+張育誠=Zhang Yucheng
+拉普=Lapp
+
+绝招：\n消耗大量的气力，造成强大的伤害。\n<color\=#FF0000>可中断捅人、暗器行动</color>=Trick: Consume a lot of energy and cause powerful damage.\n<color\=#FF0000>Can interrupt stabbing and concealed weapon operations</color>
+命中\n30=hit\n30
+[Process]回合數: 1\n雙方每回合恢復氣力\n玩家狀態效果\n--------\n敵人狀態效果\n--------\n=[Process]Number of rounds: 1 Both sides recover energy every round. Player status effect -------- Enemy status effect--------\n
+抱著被扭送\n衙門的覺悟\n襲擊小師妹=Being held in arms and being twisted away\nYamen’s awareness\nAttack the junior sister
+連續擊殺=consecutive kills
+體力+1\n體力+1\n體力+1=Physical strength +1\nPhysical strength +1\nPhysical strength +1
+轻功+1\n=Qinggong +1\n
+
+
+
+
+
+
+
+火剑：连击数>\=6时清空连段，气力+50。=Fire Sword: Clear the combo when the number of combos >\= 6, and gain +50 energy.
+
+名声+1\n=Reputation +1\n
+向心+1\n贡献度+10\n=Centripetal +1\nContribution +10\n
+
+轻功+1\n拳掌+1\n=Qinggong +1\nFist+1\n
+
+
+
+
+
+
+
+
+前武林盟主盟主盟主=Former martial arts leader, leader, leader
+介紹介紹介紹介紹介紹介紹\n介紹介紹介紹介紹介紹介紹\n介紹介紹介紹介紹介紹介紹\n介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹\n=Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction\nIntroduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction\n
+[Process]回合數: 1\n雙方每回合恢復氣力\n=[Process]Number of rounds: 1 Both sides recover energy every round\n
+[Process]Number of rounds: 1 Both sides recover energy every round\n玩家狀態效果\n--------\n敵人狀態效果\n--------\n=[Process]Number of rounds: 1 Both sides recover energy every round Player status effect -------- Enemy status effect --------\n
+刀剑+1\n拳掌+1\n=Sword+1\nFist+1\n
+我<color\=#FFFFFF00>也不要娶她！！</color>=Me<color\=#FFFFFF00>Don't marry her either!\n!</color>
+我也不要<color\=#FFFFFF00>娶她！！</color>=I don't want it either<color\=#FFFFFF00>Marry her!\n!</color>
+已開發=Developed
+总分：0=Total score: 0
+分数：0=Score: 0
+回合：1/3=Round: 1/3
+回合：2/3=Round: 2/3
+回合：3/3=Round: 3/3
+分数：1=Score: 1
+总分：1=Total score: 1
+
+向心+1\n名声+2\n=Centripetal +1\nReputation +2\n
+暗器+1\n性情+1\n名声+1\n=Hidden weapon +1\nTemperament +1\nReputation +1\n
+99中文=99 Chinese
+
+这一日晨间刚下过雨，地板<color\=#FFFFFF00>湿滑，晨操取消，\n只有小师妹风雨无阻，独自来到操场上打拳。</color>=It had just rained that morning, and the floor<color\=#FFFFFF00>湿滑，晨操取消，只有小师妹风雨无阻，独自来到操场上打拳。</color>
+南宫世家人缘极广，五湖四海都有朋友。\n届时各门各派都会<color\=#FFFFFF00>献礼祝寿，本门出手，也不能太寒酸，就怕惹人非议。</color>=The Nangong family has a very wide network and has friends from all over the world.\nAt that time, all sects and sects will<color\=#FFFFFF00>When giving gifts to celebrate birthdays, it should not be too shabby for fear of arousing criticism.</color>
+全部生命+90\n防御等级+3\n=All health +90\nDefense level +3\n
+全部生命+100\n防御等级+3\n=All lives +100\nDefense level +3\n
+
+
+
+
+
+说我……有了未婚夫婿，订了婚约，就等过门。\n是一位面目英俊，风度翩翩，家财万贯的富家子弟<color\=#FFFFFF00>。</color>=Say that I... have a fiancé, have made an engagement, and are just waiting for marriage.\nHe is a young man from a rich family with handsome face, personable style and huge wealth.<color\=#FFFFFF00>。</color>
+
+
+
+我不知他是恐吓我，还是当真狠得下心。<color\=#FFFFFF00>\n你要是我，你敢赌吗？</color>=I don't know if he was threatening me or if he was really serious.<color\=#FFFFFF00>\nIf you were me, would you dare to bet?</color>
+
+
+
+1.处世<60(目前25) (已达成)\n=1. Life <60 (currently 25) (achieved)\n
+
+
+
+
+
+
+
+
+
+
+1.性情>\=60(目前75) (已达成)\n2.刀剑>\=20(目前100) (已达成)\n3.轻功>\=20(目前100) (已达成)\n=1. Temperament >\= 60 (Currently 75) (Achieved) 2. Sword >\= 20 (Currently 100) (Achieved) 3. Qinggong >\= 20 (Currently 100) (Achieved)\n
+1.以下条件其一达成\n需要《黄酒》(持有0) (未达成)\n技能《形意拳Lv1》(目前2) (已达成)\n=1. Fulfilling one of the following conditions requires "Yellow Wine" (possessed 0) (not achieved) skill "Xingyiquan Lv1" (currently 2) (achieved)\n
+
+
+
+
+
+
+血+150=Blood +150
+掌柜的，你问我借的油盐送进后厨了，还缺啥再<color\=#FFFFFF00>到我店里说一声。</color>=Shopkeeper, the oil and salt you asked me to borrow have been sent to the kitchen. What else is needed?<color\=#FFFFFF00>Come to my store and say something.</color>
+此去虽然荒唐事不少，幸不辱命，把师弟妹们<color\=#FFFFFF00>都带回来了。</color>=Although there were a lot of absurd things going on during this trip, fortunately, I did not disgrace my destiny and brought my fellow juniors and sisters together.<color\=#FFFFFF00>Brought them all back.</color>
+分数：3=Score: 3
+总分：3=Total score: 3
+总分：4=Total score: 4
+分数：4=Score: 4
+总分：9002=Total score: 9002
+分数：9002=Score: 9002
+
+1.以下条件其一达成\r\n技能《佛学Lv1》(目前4) (已达成)\r\n技能《儒学Lv1》(目前5) (已达成)\r\n技能《道学Lv2》(目前3) (已达成)\r\n\r\n=1. Meet one of the following conditions: skill "Buddhism Lv1" (currently 4) (already achieved) skill "Confucianism Lv1" (currently 5) (already achieved) skill "Taoism Lv2" (currently 3) (already achieved)\r\n\r\n
+总分：5=Total score: 5
+分数：5=Score: 5
+总分：8=Total score: 8
+分数：8=Score: 8
+总分：9003=Total score: 9003
+分数：9003=Score: 9003
+
+名声+3\r\n贡献度+30\r\n向心+3\r\n=Reputation +3\n\r\nContribution +30\n\r\nCentripetal +3\r\n
+轻功+1\r\n拳掌+1\r\n性情-1\r\n贡献度-5\r\n=Qinggong +1 Fist +1 Temperament -1 Contribution -5\r\n
+
+

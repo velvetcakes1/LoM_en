@@ -229,6 +229,10 @@
 ##############################################
 ##Story Dialogue Box
 ##############################################
+
+/StoryCore/SayDialogs/CharacterSayDialog/Panel/Background/Name/Title=AutoResize(true,20,30)
+/StoryCore/SayDialogs/CharacterSayDialog/Panel/Background/Name/Text (TMP)=AutoResize(true,30,50)
+
 /StoryCore/SayDialogs/CharacterSayDialog/Panel/Background/StoryText=AutoResize(true,10,24)
 /StoryCore/SayDialogs/ThinkSayDialog/Panel/Background/StoryText=AutoResize(true,10,24)
 
