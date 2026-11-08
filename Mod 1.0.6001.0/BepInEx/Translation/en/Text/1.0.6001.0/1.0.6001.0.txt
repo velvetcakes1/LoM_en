@@ -911,7 +911,7 @@ File: Combatalking.txt
 
 混蛋和尚，你说什么！=Bastard monk, what did you say!
 
-谭某与你唐门无冤无仇，不过在下玩女人玩出火来，名声臭了，宝刀也给人扣下。\n不得已借你们鲜血洗一洗名声。=This Tan has no grudge against your Tang Clan. It’s just that my womanizing backfired—my reputation was ruined, and my prized blade has been seized by others. I’m left with no choice but to use your blood to wash away the stain on my name.
+谭某与你唐门无冤无仇，不过在下玩女人玩出火来，名声臭了，宝刀也给人扣下。\n不得已借你们鲜血洗一洗名声。=This Tan has no grudge against your Tang Clan. It's just that my womanizing backfired—my reputation was ruined, and my prized blade has been seized by others. I'm left with no choice but to use your blood to wash away the stain on my name.
 
 阿弥陀佛，阁下的名声臭则臭矣，怎么洗也洗不清。\n小僧建议你泡进粪坑里，这招叫做藏木于林，谁也不知臭的是粪，还是你，亦或者你与粪本为一体。=Amitabha. Benefactor, your reputation is indeed foul, and no amount of washing will cleanse it.\nThis humble monk suggests you soak yourself in a latrine pit. This move is called "hiding a tree in the forest"—no one will know whether the stench is the shit, or you, or whether you and the shit were one all along.
 
@@ -34972,7 +34972,7 @@ redo
 
 ////-------------
 
-不，只是觉得你这人不可思议。\n有时庸俗，有时又能说出令人刮目相看的话来。=No, it’s just that I find you such an enigmatic person.\nSometimes you are vulgar, and sometimes you say things that make people see you in a whole new light.
+不，只是觉得你这人不可思议。\n有时庸俗，有时又能说出令人刮目相看的话来。=No, it's just that I find you such an enigmatic person.\nSometimes you are vulgar, and sometimes you say things that make people see you in a whole new light.
 
 
 ==================================================
@@ -38996,7 +38996,7 @@ File: Story_21.txt
 
 愿闻其详。=I'd like to hear the details.
 
-若你只是一尾江湖杂鱼，谁也不放心上也索罢了。可你在崆峒大试太出风头，过于惹眼了啊。=You’ve drawn far too much attention to yourself. If you were merely some insignificant nobody in the jianghu—someone no one would ever give a second thought to, that would be one thing. But you made such a splash at the Kongtong Seasonal Trials; you’ve become far too conspicuous.
+若你只是一尾江湖杂鱼，谁也不放心上也索罢了。可你在崆峒大试太出风头，过于惹眼了啊。=You've drawn far too much attention to yourself. If you were merely some insignificant nobody in the jianghu—someone no one would ever give a second thought to, that would be one thing. But you made such a splash at the Kongtong Seasonal Trials; you've become far too conspicuous.
 
 你想，我金乌师兄说不准就是未来掌派人，而小梅师姐是他内定的妻子。你老在小梅师姐身边晃，给人惦记上了，将来还能有好日子吗？就怕你五官再端正那怕一点点，老早给人掐死了。=Think about it—Senior Brother Golden Crow might be the future Sect Master, and Senior Sister Xiaomei is his intended wife.\nYou're always hovering around Senior Sister Xiaomei. Once you're marked, can you have good days ahead?\nIf your features were even a little more proper, you'd have been strangled long ago.
 
@@ -39008,7 +39008,7 @@ File: Story_21.txt
 
 真无情啊……。=How heartless...
 
-不，轮不到我来说呢。=No, it’s not my place to say.
+不，轮不到我来说呢。=No, it's not my place to say.
 
 阿活，咱们都是江湖里游的虾米，暗潮一卷，谁也身不由己。希望你莫要怨我无情。=A-Huo, we're both just shrimp swimming in the Jianghu. When the dark current sweeps in, no one can help themselves.\nI hope you won't resent me for being heartless.
 
@@ -39028,7 +39028,7 @@ File: Story_21.txt
 
 我来教你个乖，身为杀手、刺客，就要冷酷、专业。精准完成使命，没让你杀的，最好连只鸡也别碰。不要浪费时间在无关紧要的人身上。=Let me give you a piece of advice: as a killer—an assassin—you must be cold and professional.\nComplete your mission with precision; if you haven't been ordered to kill something, you'd best not touch even a chicken.\nDo not waste your time on irrelevant people.
 
-上头的谋略，你想不透，想不透就别自作聪明。否则你有几个脑袋都不够掉呀～=You can't fathom the strategies devised by those at the top—so don't go trying to be clever.\nOtherwise, no matter how many heads you’ve got, it still won't be enough to lose～
+上头的谋略，你想不透，想不透就别自作聪明。否则你有几个脑袋都不够掉呀～=You can't fathom the strategies devised by those at the top—so don't go trying to be clever.\nOtherwise, no matter how many heads you've got, it still won't be enough to lose～
 
 是，是！飞侠既死，属下这就回去复命，告辞！=Yes, yes! Since the Flying Hero is dead, this subordinate will return to report. Farewell!
 
@@ -39058,7 +39058,7 @@ File: Story_21.txt
 
 绝交。=We're through.
 
-怎、怎么了？我做了什么不好的事吗？=W-what’s wrong? Did I do something bad?
+怎、怎么了？我做了什么不好的事吗？=W-what's wrong? Did I do something bad?
 
 没有啊，纯粹嫌你碍眼罢了。唐门眼看是不行了，我要回崆峒派去，至于你嘛，爱去哪去吧。=Not at all. I just find you an eyesore, that's all. The Tang Sect is clearly finished, so I'm heading back to the Kongtong Sect. As for you, go wherever you please.
 
@@ -39074,7 +39074,7 @@ File: Story_21.txt
 
 你大师兄本领那么大，可是连他都变成了那样。我知道你很难过，但是这种事情，谁也没有办法不是吗？=Your First Senior Brother was so invcedibly skilled, and even he ended up like that.\nI know you're very sad, but with something like this, no one can do anything, right?
 
-唐门的大家都是好人，如果可以，我当然不希望大家遭遇不幸。但是你和我，我们就是这么差劲，干啥啥不行，什么也做不到啊。=Everyone in the Tang Sect is a good person; naturally, I wouldn’t want any misfortune to befall them. But you and I—we're just that useless. We can't do anything right. We can't do anything at all.
+唐门的大家都是好人，如果可以，我当然不希望大家遭遇不幸。但是你和我，我们就是这么差劲，干啥啥不行，什么也做不到啊。=Everyone in the Tang Sect is a good person; naturally, I wouldn't want any misfortune to befall them. But you and I—we're just that useless. We can't do anything right. We can't do anything at all.
 
 求你了，我、我不想你有一天也变成那样，我怕下一次换我待在你的身边，只能眼睁睁为你送行……。=I beg you, I—I don't want you to end up like that someday too.\nI'm afraid that next time it'll be me staying by your side, able only to watch helplessly as you depart...
 
@@ -39253,7 +39253,7 @@ File: Story_3.txt
 
 大师兄与石公远，恰是两种极端。一者轻巧灵动，似风无定；一者稳如泰山，厚重坚实。=First Senior Brother and Shi Gongyuan are precisely two extremes.\nOne is light, nimble, and agile, like wind without form; the other is steady as Mount Tai, heavy and solid.
 
-趁自己午睡时，把自己放到纸船里顺流漂走，船沉了吃到水才惊醒；=While taking a nap, I placed myself inside a paper boat and let it drift downstream; it wasn’t until the boat sank and I swallowed some water that I jolted awake;
+趁自己午睡时，把自己放到纸船里顺流漂走，船沉了吃到水才惊醒；=While taking a nap, I placed myself inside a paper boat and let it drift downstream; it wasn't until the boat sank and I swallowed some water that I jolted awake;
 
 ==================================================
 File: Story_4.txt
