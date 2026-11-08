@@ -67,11 +67,9 @@ Legend_of_Mortal/
 
 Please delete the existing BepInEx folder if you're updating from an older version of the repository. Leftover files that are not overwritten may cause problems with translation.
 
-xUnityAutoTranslator might not detect text if the setting `Enable color change of read text` is on. Keep it off.
-
 Legend remains untranslated. It is a record/summary of events that you've experienced as a player. xUnityAutoTranslator will not detect blocks of text that huge as the character limit is 2500.
 
 If you are having trouble with the installation or would like to report mistranslated/incomprehensible text, feel free to DM me on Discord@`.velvetcakes1`
 
-#### Story Updated for Game Version     : 1.0.6000.4
-#### Last Updated                      : 21/10/2026
+#### Story Updated for Game Version     : 1.0.6001.0
+#### Last Updated                      : 08/11/2026
