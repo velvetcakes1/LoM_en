@@ -198,6 +198,7 @@
 /[UI]/TopPanel/StatusPanel/Container/Panels/Property/HoverPanel/Mental=UGUI_HorizontalOverflow(overflow)
 
 /[UI]/TopPanel/StatusPanel/Container/Panels/Property/Character/Title=UGUI_HorizontalOverflow(overflow)
+/[UI]/TopPanel/StatusPanel/Container/Panels/Property/Character/Title=AutoResize(true,20,22)
 /[UI]/TopPanel/StatusPanel/Container/Panels/Property/Character/Name/Text=UGUI_HorizontalOverflow(overflow)
 
 /[UI]/MainUI/Layer_1/Name=UGUI_HorizontalOverflow(overflow)
@@ -230,7 +231,7 @@
 ##Story Dialogue Box
 ##############################################
 
-/StoryCore/SayDialogs/CharacterSayDialog/Panel/Background/Name/Title=AutoResize(true,20,30)
+/StoryCore/SayDialogs/CharacterSayDialog/Panel/Background/Name/Title=AutoResize(true,20,24)
 /StoryCore/SayDialogs/CharacterSayDialog/Panel/Background/Name/Text (TMP)=AutoResize(true,30,50)
 
 /StoryCore/SayDialogs/CharacterSayDialog/Panel/Background/StoryText=AutoResize(true,10,24)
@@ -281,6 +282,11 @@
 /StoryCore/MenuDialogs/DiceMenuDialog/ButtonGroup=AutoResize(true,21,21)
 /StoryCore/MenuDialogs/DiceMenuDialog/Roll/BaseMaxDice=AutoResize(true,20,20)
 ##############################################
+/StoryCore/MenuDialogs/SectionFree01_MenuDialog/Container/Window/BreakOption (1)=AutoResize(true,16,16)
+/StoryCore/MenuDialogs/SectionFree01_MenuDialog/Container/Window/Scroll View/Viewport/Content=AutoResize(true,16,16)
+
+
+/[UI]/MainUI/Layer_1/MenuButton=AutoResize(true,16,20)
 
 /StoryCore/MenuDialogs/SectionFree02_MenuDialog/Container/Window=AutoResize(true,16,16)
 /StoryCore/MenuDialogs/SectionFree02_MenuDialog/Container/Window=UGUI_ChangeLineSpacing(0.8)
@@ -576,6 +582,55 @@
 /StoryCore/MenuDialogs/Section02_03_MenuDialog/ButtonGroup/PositionOptionButton2/Hover/Title=UGUI_HorizontalOverflow(overflow)
 /StoryCore/MenuDialogs/Section02_03_MenuDialog/ButtonGroup/PositionOptionButton2/Normal/Desc=AutoResize(true,18,18)
 ##############################################
+
+##############################################
+##Colorless Plaza UI
+##############################################
+/StoryCore/MenuDialogs/Section01_06_MenuDialog/Header=UGUI_HorizontalOverflow(overflow)
+/StoryCore/MenuDialogs/Section01_06_MenuDialog/Header=AutoResize(true,32,32)
+/StoryCore/MenuDialogs/Section01_06_MenuDialog/Header=AutoResize(true,32,32)
+##############################################
+
+##############################################
+##Flying Heaven Hall UI
+##############################################
+/StoryCore/MenuDialogs/Section01_01_MenuDialog/Header=UGUI_HorizontalOverflow(overflow)
+/StoryCore/MenuDialogs/Section01_01_MenuDialog/Header=AutoResize(true,32,32)
+/StoryCore/MenuDialogs/Section01_01_MenuDialog/Header=AutoResize(true,32,32)
+##############################################
+
+##############################################
+##Iron Fist Alley UI
+##############################################
+/StoryCore/MenuDialogs/Section01_03_MenuDialog/Header=UGUI_HorizontalOverflow(overflow)
+/StoryCore/MenuDialogs/Section01_03_MenuDialog/Header=AutoResize(true,32,32)
+/StoryCore/MenuDialogs/Section01_03_MenuDialog/Header=AutoResize(true,32,32)
+##############################################
+
+##############################################
+##Mystic Arts Cave UI
+##############################################
+/StoryCore/MenuDialogs/Section01_04_MenuDialog/Header=UGUI_HorizontalOverflow(overflow)
+/StoryCore/MenuDialogs/Section01_04_MenuDialog/Header=AutoResize(true,32,32)
+/StoryCore/MenuDialogs/Section01_04_MenuDialog/Header=AutoResize(true,32,32)
+##############################################
+
+##############################################
+##Soul-Snatching Peak UI
+##############################################
+/StoryCore/MenuDialogs/Section01_05_MenuDialog/Header=UGUI_HorizontalOverflow(overflow)
+/StoryCore/MenuDialogs/Section01_05_MenuDialog/Header=AutoResize(true,32,32)
+/StoryCore/MenuDialogs/Section01_05_MenuDialog/Header=AutoResize(true,32,32)
+##############################################
+
+##############################################
+##Dynamc 6th UI
+##############################################
+#/StoryCore/MenuDialogs/Section01_06_MenuDialog/Header=UGUI_HorizontalOverflow(overflow)
+#/StoryCore/MenuDialogs/Section01_06_MenuDialog/Header=AutoResize(true,32,32)
+#/StoryCore/MenuDialogs/Section01_06_MenuDialog/Header=AutoResize(true,32,32)
+##############################################
+
 
 
 
@@ -1077,7 +1132,12 @@
 /[UI]/MainUI/Layer_2/EnemyStatus/BuffContainer/EnemyBuff(Clone)/Container/Name=AutoResize(true,14,14)
 /[UI]/MainUI/Layer_2/EnemyStatus/BuffContainer/EnemyBuff(Clone)/Container/Type=AutoResize(true,12,12)
 
+/[UI]/TopPanel/StatusPanel/Container/Player/Panels/SkillPanel/Scroll View/Viewport/Content/CombatSkill(Clone)/Normal/Name=AutoResize(true,14,14)
+/[UI]/TopPanel/StatusPanel/Container/Player/Panels/SkillPanel/Scroll View/Viewport/Content/CombatSkill(Clone)/Enable/Name=AutoResize(true,14,14)
+/[UI]/TopPanel/StatusPanel/Container/Player/Panels/SkillPanel/Scroll View/Viewport/Content/CombatSkill(Clone)/Normal/Level=AutoResize(true,14,14)
+/[UI]/TopPanel/StatusPanel/Container/Player/Panels/SkillPanel/Scroll View/Viewport/Content/CombatSkill(Clone)/Enable/Level=AutoResize(true,14,14)
 
+/[UI]/TopPanel/StatusPanel/Container/Player/Panels/SkillPanel/SkillDescText=AutoResize(true,16,16)
 
 /[UI]/MainUI/Layer_5/PlayerDialog/Text=AutoResize(true,20,20)
 /[UI]/MainUI/Layer_5/EnemyDialog/Text=AutoResize(true,20,20)

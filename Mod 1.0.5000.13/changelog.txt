@@ -1,0 +1,13 @@
+10 commits since v5.4.23.5
+
+Changelog (excluding merges):
+* (4865251) [ManlyMarco] Bump version number
+* (a37e8a3) [Arrowmaster] Upgrade UnityDoorstop to version 4.6.0 (#1419)
+* (f4c1b11) [ManlyMarco] Add build_pr workflow to match master
+* (01fd4aa) [Chris Dobbyn] v5: Fix plugin loading on native arm64 macOS (#1402)
+* (d700bda) [Arrowmaster] Fix building from BepInEx:master GH workflows (#1398)
+* (5c18faf) [Drew Mochak] v5: Don't kill the chainloader when Unity log callbacks are stripped (#1392)
+* (b10beef) [theoriginalbrian] v5: Fix crash on macOS arm64: wrap XTermFix and ConsoleSetOutFix in TryDo (#1288)
+* (c69012a) [ratijas] Make [Obsolete] text for GetConfigEntries more actionable (#1306)
+* (4ed7b3b) [Zackary Newman] Fix HarmonyX version in README (#1287)
+* (a744a4c) [Arrowmaster] Change MacOS arch in build script from x64 to universal (#1268)
