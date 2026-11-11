@@ -72,4 +72,4 @@ Legend remains untranslated. It is a record/summary of events that you've experi
 If you are having trouble with the installation or would like to report mistranslated/incomprehensible text, feel free to DM me on Discord@`.velvetcakes1`
 
 #### Story Updated for Game Version     : 1.0.6001.0
-#### Last Updated                      : 08/11/2026
+#### Last Updated                      : 11/11/2026

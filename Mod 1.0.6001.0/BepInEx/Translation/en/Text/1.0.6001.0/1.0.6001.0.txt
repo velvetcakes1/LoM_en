@@ -10373,7 +10373,7 @@ File: Story_17.txt
 
 别再起来了！臭阿活！=Don't get up again! Stinky A'Huo!
 
-公子，你可有受伤？……您、您怎么会武功的？这是武功对吧？=Young Master, are you hurt? ...Y-you know martial arts? This is martial arts, right?
+公子，你可有受伤？……您、您怎么会武功的？这是武功对吧？=Young Master, are you hurt? ...Y-You know martial arts? This is martial arts, right?
 
 ……君子六艺，所谓的射就是武功。本公子跟着家中武师学的把式而已。=...The six arts of a gentleman—what's called archery is martial arts.\nThis Young Master merely learned some moves from my family's martial instructor.
 
@@ -18721,7 +18721,7 @@ File: Story_19.txt
 
 不对吧，我好像听见你说「受死吧阿活」。=That's not right. I think I heard you say「Die, A'Huo」(shou si ba a huo).
 
-那是你听错了，我说的是「瘦死的骆驼」。瘦死的骆驼比马大，意思是即便穷愁潦倒，唐门依然底蕴雄厚～=You heard wrong. I said「a starved camel」(shou si de luotuo) .\nA starved camel is still bigger than a horse; meaning that even in the depths of destitution, the Tang Clan still possesses a profound and formidable foundation~
+那是你听错了，我说的是「瘦死的骆驼」。瘦死的骆驼比马大，意思是即便穷愁潦倒，唐门依然底蕴雄厚～=You heard wrong. I said「a starved camel」(shou si de luotuo).\nA starved camel is still bigger than a horse; meaning that even in the depths of destitution, the Tang Clan still possesses a profound and formidable foundation~
 
 从未见过如此擅长喇逼鵰的人。=I've never seen anyone so skilled at bullshitting.
 
