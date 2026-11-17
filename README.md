@@ -14,7 +14,7 @@ These are included in this repository and you do not need to download them separ
 
 ## Installation
 
-1. Download the Translation for your game version from <Releases>.
+1. Download the Translation for your game version from `Releases`.
 ![Code](assets/Screenshot1.png)
 
 2. Copy everything inside the `Mod x.x.xxxx.x` folder for your game version and paste it to the Legend of Mortal's game directory. The game directory location may vary. It's usually in `C:\Program Files (x86)\Steam\steamapps\common\` but if you are unsure right click the game in your steam library and select `properties`. Under `Installed Files` click on `Browse` to opne the game directory. The game directory should now look similar to the one in the image shared below.
